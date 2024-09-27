@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+.button{
+    height: 72px;
+    width: 72px;
+    border: 1px solid black;
+    margin-top: 24px;
+    cursor: pointer;    
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#red{
+    background-color: red;
+}
+
+#green{
+    background-color: green;
+}
+
+#pink{
+    background-color: pink;
+}

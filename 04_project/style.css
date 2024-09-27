@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: grey;    
+}
+
+.wrapper{
+    margin-top: 13%;
+}
+
+.guessSubmit{
+    margin-top: 30px;
+}
